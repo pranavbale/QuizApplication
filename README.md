@@ -18,32 +18,46 @@ So, my quiz app is not just about quizzes; it's about making sure users have a g
 1. Gat all questions : http://localhost:8080/api/allQuestions
 <img width="1280" alt="Screenshot 2023-10-12 at 4 51 47 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/615c5be3-3e54-4ce8-811f-769d7cabe919">
 
+
 2. Search questions by category’s : http://localhost:8080/api/question/findByCategory/java
+
    here "java" is the category
 <img width="1280" alt="Screenshot 2023-10-12 at 4 52 09 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/5ef9a3fa-1800-41f7-a532-033a397b31d0">
 
-3. Search question  by ID : http://localhost:8080/api/question/findById/3
+
+4. Search question  by ID : http://localhost:8080/api/question/findById/3
+
    here 3 is the ID
 <img width="1280" alt="Screenshot 2023-10-12 at 4 52 21 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/cf1edeb7-6689-49ff-b764-61e36ef98635">
 
-4. Add a question into the database : http://localhost:8080/api/question
+
+5. Add a question into the database : http://localhost:8080/api/question
 <img width="1280" alt="Screenshot 2023-10-12 at 4 52 50 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/a7224771-4d67-47eb-97e7-8e92b3670196">
 
-5. Update a question into the database : http://localhost:8080/api/question
+
+6. Update a question into the database : http://localhost:8080/api/question
 <img width="1280" alt="Screenshot 2023-10-12 at 4 53 52 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/f0f98b34-477c-4d70-89e8-a53522c8732b">
 
-6. Delete a question from the database : http://localhost:8080/api/question/7
+
+7. Delete a question from the database : http://localhost:8080/api/question/7
+
    here 7 is the ID
 <img width="1280" alt="Screenshot 2023-10-12 at 4 54 09 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/2c0dd9dd-b84b-4b73-b9d3-c67a9094532e">
 
-7. Create a quiz : http://localhost:8080/quiz/create?category=Java&numQ=2&title=JQuiz
+
+8. Create a quiz : http://localhost:8080/quiz/create?category=Java&numQ=2&title=JQuiz
+
    here "java" is the category, 2 is the number of questions and JQuiz is the title of the quiz
 <img width="1280" alt="Screenshot 2023-10-12 at 4 54 20 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/49441fe0-f8ea-40af-b8fc-bab374964038">
 
-8. Get the Quiz : http://localhost:8080/quiz/get/1
+
+9. Get the Quiz : http://localhost:8080/quiz/get/1
+
    here 1 is the quiz ID
 <img width="1280" alt="Screenshot 2023-10-12 at 4 54 34 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/ddd7ac0c-f7c3-44e2-8b65-60a7326b8f94">
 
-9. Submit the quiz and get the result : http://localhost:8080/quiz/submit/1
+
+10. Submit the quiz and get the result : http://localhost:8080/quiz/submit/1
+
     here 1 is the quiz ID
 <img width="1280" alt="Screenshot 2023-10-12 at 4 54 49 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/77fd738e-a1cb-4160-8a14-7557e9c2c5d3">
