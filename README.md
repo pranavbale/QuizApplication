@@ -61,3 +61,5 @@ So, my quiz app is not just about quizzes; it's about making sure users have a g
 
     here 1 is the quiz ID
 <img width="1280" alt="Screenshot 2023-10-12 at 4 54 49 PM" src="https://github.com/pranavbale/QuizApplication/assets/78872729/77fd738e-a1cb-4160-8a14-7557e9c2c5d3">
+
+**Thank You**
